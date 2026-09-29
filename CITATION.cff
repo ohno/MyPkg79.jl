@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Shuhei Ohno"
+  - family-names: "John Doe"
+title: "MyPkg79.jl"
+version: "0.0.1"
+date-released: "2026-09-29"
+repository-code: "https://github.com/ohno/MyPkg79.jl"
